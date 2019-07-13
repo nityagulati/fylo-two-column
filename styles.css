@@ -73,7 +73,7 @@ ul {  list-style: none; }
 .section-2 {
   background-image: url('images/bg-curve-desktop.svg');
   background-repeat: no-repeat;
-  background-position: center;
+  background-position: center top;
   background-size: 300% 100%;
   -webkit-background-size: 300% 100%;
   color: hsl(0, 0%, 55%);

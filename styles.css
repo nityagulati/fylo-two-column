@@ -75,6 +75,7 @@ ul {  list-style: none; }
   background-repeat: no-repeat;
   background-position: center;
   background-size: 300% 100%;
+  -webkit-background-size: 300% 100%;
   color: hsl(0, 0%, 55%);
 }
 
